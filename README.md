@@ -1,4 +1,4 @@
-# Calculadora em C#
+# Editores de Textos e HTML
 
 ## Repositório para exercitar conceitos de Funções e Switch Case
 
